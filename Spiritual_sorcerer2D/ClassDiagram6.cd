@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Card" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAgAAAAAAAABAAAABABAAAAAECAAAAAAASAAAAAhA=</HashCode>
+      <FileName>Assets\01.Scripts\CardTemp\Card.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardHandler" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAEAAAAAAAAAAAAAABAAAAAAACBAAAABI=</HashCode>
+      <FileName>Assets\01.Scripts\CardTemp\CardHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Deck" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAEAAEAAAAACAAAAEBg=</HashCode>
+      <FileName>Assets\01.Scripts\CardTemp\Deck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeckManager" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAIACAAggBAAAQAAIAAAABQAECAQAFACgAABTA=</HashCode>
+      <FileName>Assets\01.Scripts\CardTemp\DeckManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sprit" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAACEAIAARBAAEAAAAAAABAQAAAQAGAAAAgAE=</HashCode>
+      <FileName>Assets\01.Scripts\Sprits\Sprit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpritManager" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAACIAAACABCgsAAACAAAAAAFBUABAAQkAAAIAAAEA=</HashCode>
+      <FileName>Assets\01.Scripts\Sprits\SpritManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BezierCurve" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAECAEqAAAAAAAAAAAAAAAAAAAEAAAAQAgAAACQI=</HashCode>
+      <FileName>Assets\01.Scripts\BezierCurve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Boss" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAABCgAAAIAAAAAAAAAAEAAAECIAAAEAAAACAA=</HashCode>
+      <FileName>Assets\01.Scripts\Boss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungoenEnemy" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAABCgAAAIAAAAAAAAAAEAAAECIAAAEAAAACAA=</HashCode>
+      <FileName>Assets\01.Scripts\DungoenEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungoenMobSpawner" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAEAAAAACAAAAAAAAAAAAAgAAAAAAAACQAQAAAAAAA=</HashCode>
+      <FileName>Assets\01.Scripts\DungoenMobSpawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EndCheck" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Assets\01.Scripts\EndCheck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAABCgAAAIAAAAAAAAAAEAAAECIAAAEAAAACAA=</HashCode>
+      <FileName>Assets\01.Scripts\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemySpawner" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAQAQAEAAAAA=</HashCode>
+      <FileName>Assets\01.Scripts\EnemySpawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhBQABQACEIAEgEABYoIEEAWQYBkAMBBQAEQAgiNEEE=</HashCode>
+      <FileName>Assets\01.Scripts\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\01.Scripts\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PoolManager" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAEAUAAAACJBAAAAACSACBAQAIFAEAgAQACBAKAAAAA=</HashCode>
+      <FileName>Assets\01.Scripts\PoolManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneController" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQACAAAAAAAAAACAAAAAAAACAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\01.Scripts\SceneController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextFade" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACACAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Assets\01.Scripts\TextFade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIManager" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wAwIGAAkwKAiHRADgAECKMmCABhYtCSQTBAGfYKAAFE=</HashCode>
+      <FileName>Assets\01.Scripts\UIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Type" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAARAAAAAAAIEAAAAIAAAAAAABCA=</HashCode>
+      <FileName>Assets\01.Scripts\Sprits\Sprit.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
